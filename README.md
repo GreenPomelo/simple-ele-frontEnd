@@ -27,6 +27,8 @@ yarn start
 
 [重新介绍 JavaScript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
+[React 官方文档](https://reactjs.org/docs/getting-started.html)
+
 [一个设计师写的 JavaScript 教程](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 有基础的同学可以看看
