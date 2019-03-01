@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/右链接箭头@svg</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/右链接箭头" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="箭头">
+            <rect id="Rectangle" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+            <path d="M4.906054,15.9991199 C4.81786372,15.9991199 4.72928323,15.969463 4.65631164,15.9089785 C4.49085733,15.7708397 4.46861466,15.5249996 4.60636317,15.3591551 L10.526818,8.25632628 L4.57631605,0.996628078 C4.4397382,0.830003109 4.46393198,0.584162969 4.63094719,0.447585109 C4.79796239,0.311007266 5.0434123,0.335591266 5.17999016,0.50221625 L11.3345784,8.01126658 C11.453206,8.15603909 11.4524256,8.36441789 11.3326273,8.50840995 L5.20535462,15.8594202 C5.128871,15.9515127 5.01765761,15.9991199 4.906054,15.9991199 Z" id="Path" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

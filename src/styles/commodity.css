@@ -1,0 +1,49 @@
+.commodity-container {
+  overflow: scroll;
+  max-height: 100vh;
+  overflow: -moz-scrollbars-none;
+  -ms-overflow-style: none;
+}
+.commodity-container::-webkit-scrollbar {
+  width: 0 !important;
+}
+.commodity-item {
+  display: flex;
+  height: 90px;
+  margin-left: 8px;
+  margin-bottom: 9px;
+}
+.commodity-item > .commodity-item-picture {
+  height: 90px;
+  width: 90px;
+}
+
+.commodity-item > .commodity-information {
+  height: 90px;
+  font-family: PingFangSC-Semibold;
+}
+.commodity-information > .lines-title {
+  line-height: 20px;
+  color: #222222;
+  font-size: 14px;
+}
+.commodity-information > .lines {
+  line-height: 20px;
+  color: #b6b6b6;
+  font-size: 11px;
+}
+.commodity-information > .add-to-cart {
+  display: flex;
+  justify-content: space-between;
+  color: #f5660b;
+  font-size: 11px;
+}
+.bought-number {
+  display: flex;
+  align-items: center;
+}
+.bought-number > .number {
+  margin-right: 10px;
+  font-size: 14px;
+  color: #222222;
+}

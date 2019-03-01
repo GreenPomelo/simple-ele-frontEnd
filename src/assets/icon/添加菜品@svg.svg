@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/添加菜品@svg</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/添加菜品" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7">
+            <rect id="Rectangle" fill="#008BFF" x="0" y="0" width="24" height="24" rx="12"></rect>
+            <g id="加号" transform="translate(4.000000, 4.000000)">
+                <rect id="Rectangle" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+                <path d="M14.2699637,7.26973067 L8.73000887,7.26973067 L8.73000887,1.72998145 C8.73000887,1.32683363 8.40316153,1 8,1 C7.59682476,1 7.26999113,1.32681993 7.26999113,1.72998145 L7.26999113,7.26973067 L1.73000887,7.26973067 C1.32683363,7.26973067 1,7.5965506 1,7.99969842 C1,8.40285995 1.32683363,8.72970729 1.73000887,8.72970729 L7.26999113,8.72970729 L7.26999113,14.2694428 C7.26999113,14.6725632 7.59682476,14.9993968 8,14.9993968 C8.40316153,14.9993968 8.73000887,14.6725632 8.73000887,14.2694428 L8.73000887,8.72970729 L14.2699637,8.72970729 C14.6731664,8.72970729 15,8.40285995 15,7.99969842 C15,7.5965506 14.6731664,7.26973067 14.2699637,7.26973067 Z" id="Path" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,38 @@
+.header-image-container {
+  background-color:#008BFF;
+}
+.back-arrow {
+  height: 16px;
+  width: 16px;
+  display: block;
+  margin-left: 16px;
+  padding-top: 20px;
+}
+.shop-picture {
+  height:72px;
+  width:72px;
+  object-fit: cover;
+  vertical-align: bottom;
+}
+.header-information {
+  background: #ffffff;
+  text-align: center;
+}
+.header-information > .header-information-name {
+  padding-top: 24px;
+  margin-bottom: 4px;
+  font-family: PingFangSC-Semibold;
+  font-size: 16px;
+  color: #222222
+}
+.header-information > .header-information-info {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10px;
+  color: #7C7C7C;
+  padding-bottom: 27px;
+}
+.header-information-info > div {
+  margin: 7px;
+}

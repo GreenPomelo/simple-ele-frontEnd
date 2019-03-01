@@ -1,0 +1,15 @@
+.categories-container {
+  background: #f0eeee;
+  min-height: 100%;
+  overflow: scroll;
+}
+.categories-item {
+  color: #7c7c7c;
+  text-align: center;
+  font-size: 11px;
+  padding: 10px 0;
+}
+.chosen {
+  color: #222222;
+  background: #ffffff;
+}

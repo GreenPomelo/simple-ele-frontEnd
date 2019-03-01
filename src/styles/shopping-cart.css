@@ -1,0 +1,26 @@
+.shopping-cart-container {
+  position: fixed;
+  bottom: 0;
+  height: 44px;
+  width: 100%;
+  background: #7c7c7c;
+}
+.shopping-cart-main {
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.shopping-cart-money {
+  width: 120px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #b6b6b6;
+  color: #f0eeee;
+}
+.pick-up {
+  background: #008bff;
+  color: #f0eeee;
+}

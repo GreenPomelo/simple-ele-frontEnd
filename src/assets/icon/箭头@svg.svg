@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/箭头@svg</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/箭头" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="箭头" transform="translate(8.000000, 8.000000) scale(-1, 1) translate(-8.000000, -8.000000) ">
+            <rect id="Rectangle" fill="#000000" opacity="0" x="0" y="0" width="16" height="16"></rect>
+            <path d="M15.4666667,7.53333333 L9.33333333,1.73333333 C9.06666666,1.46666666 8.66666666,1.46666666 8.4,1.73333333 C8.13333333,2 8.13333333,2.4 8.4,2.66666667 L13.3333333,7.33333333 L1,7.33333333 C0.6,7.33333333 0.333333328,7.6 0.333333328,8 C0.333333328,8.4 0.6,8.66666667 1,8.66666667 L13.3333333,8.66666667 L8.4,13.3333333 C8.13333333,13.6 8.13333333,14 8.4,14.2666667 C8.53333333,14.4 8.73333333,14.4666667 8.86666667,14.4666667 C9,14.4666667 9.2,14.4 9.33333333,14.2666667 L15.4666667,8.46666667 C15.6,8.33333334 15.6666667,8.13333334 15.6666667,8 C15.6666667,7.86666666 15.6,7.66666667 15.4666667,7.53333333 Z" id="Path" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
